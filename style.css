@@ -544,10 +544,10 @@ header {
 .mobile-menu[data-visible="false"] {
     transform:translateY(-100%) ;
 }
-.hamburger i [data-visible="true"] {
+.hamburger i[data-visible="true"] {
     display: flex;
 }
-.hamburger i [data-visible="false"] {
+.hamburger i[data-visible="false"] {
     display: none;
 }
 .mobile-menu ul {
