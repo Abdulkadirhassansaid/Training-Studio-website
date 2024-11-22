@@ -540,6 +540,7 @@ header {
     max-width: 100%;
     transform: translateY(0%)
 }
+
 .mobile-menu[data-visible="false"] {
     transform:translateY(-100%) ;
 }
